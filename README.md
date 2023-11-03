@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tufail114
-- 👀 I’m interested in front-end web development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborat with the professional team or organization
 - 📫 How to reach me? email: tufail.dahri@gmail.com
