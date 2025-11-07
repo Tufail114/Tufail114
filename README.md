@@ -5,7 +5,7 @@ With experience in both frontend and backend development, I specialize in creati
 
 👨‍💻 About Me
 
-💼 I have 2+ years of experience in WordPress development — from Figma to WordPress conversion, custom PHP functions, and speed optimization, to WooCommerce customization.
+💼 I have 3+ years of experience in WordPress development — from Figma to WordPress conversion, custom PHP functions, and speed optimization, to WooCommerce customization.
 
 ⚙️ Skilled in HTML, CSS, JavaScript, PHP, React.js, MySQL, and REST APIs.
 
